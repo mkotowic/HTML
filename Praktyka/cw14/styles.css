@@ -1,0 +1,20 @@
+a:link {
+    color: black;
+}
+a:visited{
+    color: red;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+p {
+    width: 200px;
+}
+p::first-letter {
+    font-size: 50px;
+}
+P::first-line {
+    color: green;
+}
